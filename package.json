@@ -1,0 +1,37 @@
+{
+  "name": "feone",
+  "version": "1.0.0",
+  "description": "This is a project that compile pug to html string and use js to inset on client",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gulp",
+    "JS",
+    "Onefile"
+  ],
+  "author": "Taisetsuz",
+  "license": "MIT",
+  "devDependencies": {
+   "browser-sync": "^2.13.0",
+    "git-rev": "^0.2.1",
+    "git-rev-sync": "^1.6.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-flatten": "^0.3.0",
+    "gulp-imageisux": "^1.0.5",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-less": "^3.1.0",
+    "gulp-mock-server": "^1.1.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.0.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.9"
+
+    
+  }
+
+}
